@@ -210,8 +210,7 @@ body {
     grid-row: 2 / 3;
     background-color: rgb(241, 238, 238);
     z-index: -1;
-    padding-top: 25px;
-    padding-right: 25px;
+    padding: 25px 25px 15px 0px;
 }
 
 .announcements-list {
